@@ -1,16 +1,28 @@
-## Hi there 👋
+## # Hi 👋 I'm Hanane
 
-<!--
-**Hanane-28/Hanane-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+🏫 University Hassiba Ben Bouali Chlef  
+💻 I love programming and building web projects
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+## 🚀 Skills
+
+- HTML
+- CSS
+- JavaScript
+- C
+- Python
+
+## 📌 Projects
+
+🔹 Calculator with HTML CSS JavaScript   
+🔹 Portfolio Website  
+
+## 🌍 About Me
+
+📍 Algeria  
+📚 Licence 2 Computer Science  
+💡 Learning Web Development
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
