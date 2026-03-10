@@ -23,6 +23,4 @@
 📍 Algeria  
 📚 Licence 2 Computer Science  
 💡 Learning Web Development
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
